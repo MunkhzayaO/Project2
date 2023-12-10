@@ -1,0 +1,46 @@
+RATIOS,PREV,CURRENT,Change
+Activity Ratio ,,,
+Inventory turnover,3.9,2.6,Lower
+Days of inventory on hands (DOH),93.3,140.5,Higher
+Receivables turnover,31.0,24.5,Lower
+Days of Sales outstanding (DSO),11.8,14.9,Higher
+Payable turnover,15.6,10.9,Lower
+Number of days of payables,23.4,33.4,Higher
+Working capital turnover,3.6,3.8,Higher
+Fixed asset turnover,1.9,1.7,Lower
+Total asset turnover,1.1,1.0,Lower
+LIQUIDUTY RATIO,,,
+Current,4.1,2.7,Lower
+Quick,0.7,0.5,Lower
+Cash,1.3,0.3,Lower
+Defensive interval,253.3,138.1,Lower
+Cash conversion cycle,81.7,122.0,Higher
+SOLVENCY RATIO / LEVERAGE,,,
+Debt to asset,0.0,0.0,About same
+Debt to capital,0.0,0.0,About same
+Debt to equity,0.0,0.0,About same
+Financial leverage,1.2,1.3,Higher
+PROFITABILITY RATIO,,,
+Gross profit margin,0.5,0.4,Lower
+Operating margin,0.3,0.2,Lower
+Pretax margin,0.3,0.2,Lower
+Net profit margin,0.2,0.1,Lower
+Operating ROA,0.3,0.2,Lower
+ROA,0.2,0.1,Lower
+Return on total capital,0.4,0.2,Lower
+ROE,0.3,0.2,Lower
+VALUATION RATIOS,,,
+P/E,12.9,12.7,Lower
+P/CF,10.9,14.1,Higher
+P/S,2.9,1.9,Lower
+P/BV,3.9,2.5,Lower
+EPS,144.4,117.3,Lower
+Cash flow per share,170.1,105.9,Lower
+EBT per share,183.0,153.0,Lower
+PERFORMANCE RATIO,,,
+Cash flow to revenue,0.3,0.1,Lower
+Cash return on asset,0.3,0.1,Lower
+Cash return on equity,0.4,0.2,Lower
+Cash to income,0.9,0.7,Lower
+Investing and Financing,1.1,0.7,Lower
+Debt coverage,8.6,4.8,Lower
